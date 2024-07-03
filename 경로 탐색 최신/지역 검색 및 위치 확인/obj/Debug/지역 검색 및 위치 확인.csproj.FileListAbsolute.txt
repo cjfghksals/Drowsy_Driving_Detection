@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\bin\Debug\지역 검색 및 위치 확인.exe.config
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\bin\Debug\지역 검색 및 위치 확인.exe
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\bin\Debug\지역 검색 및 위치 확인.pdb
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\obj\Debug\지역 검색 및 위치 확인.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\obj\Debug\지역_검색_및_위치_확인.MainForm.resources
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\obj\Debug\지역_검색_및_위치_확인.Properties.Resources.resources
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\obj\Debug\지역 검색 및 위치 확인.csproj.GenerateResource.cache
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\obj\Debug\지역 검색 및 위치 확인.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\obj\Debug\지역 검색 및 위치 확인.exe
+C:\Users\user\Desktop\최종프로젝트\경로 탐색\지역 검색 및 위치 확인\obj\Debug\지역 검색 및 위치 확인.pdb
