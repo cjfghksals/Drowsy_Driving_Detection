@@ -1,0 +1,2 @@
+C:\opencv\Traffic_light\x64\Debug\sqlite3.dll
+C:\opencv\Traffic_light\Traffic_light\x64\Debug\Traffic_.6F83C193.Up2Date
