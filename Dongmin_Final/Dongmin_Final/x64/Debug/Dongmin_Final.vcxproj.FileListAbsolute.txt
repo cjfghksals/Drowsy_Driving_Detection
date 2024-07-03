@@ -1,0 +1,2 @@
+C:\opencv\Dongmin_Final\x64\Debug\sqlite3.dll
+C:\opencv\Dongmin_Final\Dongmin_Final\x64\Debug\Dongmin_.0A4B6F71.Up2Date
